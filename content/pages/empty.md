@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: This is a new page
+title: data deletion request
 sections: []
 slug: empty
 isDraft: false
